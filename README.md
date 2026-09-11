@@ -2,7 +2,7 @@
 
 Lập trình viên Full Stack, xây dựng ứng dụng web từ phân tích yêu cầu, thiết kế kiến trúc đến triển khai và hỗ trợ vận hành sản phẩm. Định hướng phát triển thêm về kiến trúc hệ thống và vận hành hạ tầng.
 
-Sinh viên Cử nhân Công nghệ Thông tin, Trường Đại học Sư phạm Thành phố Hồ Chí Minh (08/2023 – nay), dự kiến tốt nghiệp sớm 03/2027.
+Sinh viên Cử nhân Công nghệ Thông tin, Trường Đại học Sư phạm Thành phố Hồ Chí Minh (08/2023 – nay), dự kiến tốt nghiệp 03/2027.
 
 ## Kinh nghiệm
 
@@ -34,7 +34,7 @@ Câu lạc bộ Tin học, Trường Đại học Sư phạm TP.HCM (10/2023 –
 
 ## Công bố khoa học
 
-Một mô hình mô tả hình ảnh kết hợp đồ thị tri thức và mạng học sâu. *Tạp chí Khoa học và Công nghệ, Đại học Thái Nguyên*, 230(07), tr. 153–159, 06/2025. [DOI](https://doi.org/10.34238/tnu-jst.12614)
+Một mô hình mô tả hình ảnh kết hợp đồ thị tri thức và mạng học sâu. Đồng tác giả. *Tạp chí Khoa học và Công nghệ, Đại học Thái Nguyên*, 230(07), tr. 153–159, 06/2025. [DOI](https://doi.org/10.34238/tnu-jst.12614)
 
 ## Thành tích
 
