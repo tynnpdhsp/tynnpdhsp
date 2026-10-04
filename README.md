@@ -8,7 +8,7 @@ Sinh viên Cử nhân Công nghệ Thông tin, Trường Đại học Sư phạm
 
 Phòng CNTT, Trường Đại học Sư phạm TP.HCM
 
-- **Full Stack Developer, cộng tác viên** (01/2026 – 08/2026). Trực tiếp thiết kế kiến trúc, lập trình và triển khai các dự án phần mềm của trường, đồng thời quản lý chứng chỉ TLS và vận hành máy chủ.
+- **Full Stack Developer, cộng tác viên** (01/2026 – 09/2026). Trực tiếp thiết kế kiến trúc, lập trình và triển khai các dự án phần mềm của Trường, đồng thời quản lý chứng chỉ TLS và vận hành máy chủ tại trung tâm dữ liệu của Trường.
 - **Full Stack Developer, thực tập sinh** (08/2025 – 12/2025). Đảm nhận vai trò Project Manager, lên kế hoạch, trực tiếp lập trình và điều phối nhóm 4 người.
 
 ## Dự án
@@ -30,7 +30,7 @@ Next.js, TypeScript, TailwindCSS, Express.js, PostgreSQL, JWT, Docker, Apache, G
 
 ## Hoạt động
 
-Câu lạc bộ Tin học, Trường Đại học Sư phạm TP.HCM (10/2023 – nay). Chủ nhiệm từ 05/2025, thành viên Ban chuyên môn giai đoạn 10/2023 – 04/2025.
+Câu lạc bộ Tin học, Trường Đại học Sư phạm TP.HCM (10/2023 – nay). Phó Chủ nhiệm từ 10/2026, Chủ nhiệm giai đoạn 05/2025 – 09/2026, thành viên Ban chuyên môn giai đoạn 10/2023 – 04/2025.
 
 ## Công bố khoa học
 
